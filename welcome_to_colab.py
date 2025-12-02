@@ -75,8 +75,3 @@ else:
 
     # In kết quả
     print("Tổng các số chẵn nhỏ hơn", n, "là:", tong)
-
-
-- [Multilingual Universal Sentence Encoder Q&A](https://tensorflow.org/hub/tutorials/retrieval_with_tf_hub_universal_encoder_qa): Use a machine learning model to answer questions from the SQuAD dataset.
-- [Video Interpolation](https://tensorflow.org/hub/tutorials/tweening_conv3d): Predict what happened in a video between the first and the last frame.
-"""
